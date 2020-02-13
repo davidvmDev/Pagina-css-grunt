@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_grunt",
+  "version": "1.0.0",
+  "description": "proyecto para entender grunt",
+  "main": "   ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Velasquez",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  },
+  "dependencies": {
+    "grun": "^0.2.0"
+  }
+}
